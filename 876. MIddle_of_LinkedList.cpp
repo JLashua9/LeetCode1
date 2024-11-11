@@ -1,4 +1,4 @@
-//Jami Lashua
+//Jami Lashua monday nov 11
 struct ListNode {
       int val;
       ListNode *next;
