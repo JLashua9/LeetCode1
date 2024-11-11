@@ -1,4 +1,4 @@
-//Jami ALshua
+//Jami Lashua
 struct ListNode {
       int val;
       ListNode *next;
