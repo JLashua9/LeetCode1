@@ -1203,8 +1203,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/jamilashua/Code Projects/13. Roman to Integer /cmake-build-debug",
-		"source" : "/Users/jamilashua/Code Projects/13. Roman to Integer "
+		"build" : "/Users/jamilashua/Code Projects/TwoSum/cmake-build-debug",
+		"source" : "/Users/jamilashua/Code Projects/TwoSum"
 	},
 	"version" : 
 	{

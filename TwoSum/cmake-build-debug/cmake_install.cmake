@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Install script for directory: /Users/jamilashua/Code Projects/13. Roman to Integer 
-=======
-# Install script for directory: /Users/jamilashua/Code Projects/LeetCode
->>>>>>> origin/master
+# Install script for directory: /Users/jamilashua/Code Projects/TwoSum
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,9 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-<<<<<<< HEAD
-file(WRITE "/Users/jamilashua/Code Projects/13. Roman to Integer /cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
-=======
-file(WRITE "/Users/jamilashua/Code Projects/LeetCode/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
->>>>>>> origin/master
+file(WRITE "/Users/jamilashua/Code Projects/TwoSum/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

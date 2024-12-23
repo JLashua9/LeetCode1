@@ -2,42 +2,6 @@
 	"entries" : 
 	[
 		{
-			"name" : "13__Roman_to_Integer__BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/jamilashua/Code Projects/13. Roman to Integer /cmake-build-debug"
-		},
-		{
-			"name" : "13__Roman_to_Integer__IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "13__Roman_to_Integer__SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/jamilashua/Code Projects/13. Roman to Integer "
-		},
-		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -91,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/jamilashua/Code Projects/13. Roman to Integer /cmake-build-debug"
+			"value" : "/Users/jamilashua/Code Projects/TwoSum/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/jamilashua/Code Projects/13. Roman to Integer /cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/jamilashua/Code Projects/TwoSum/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -575,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/jamilashua/Code Projects/13. Roman to Integer "
+			"value" : "/Users/jamilashua/Code Projects/TwoSum"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -807,7 +771,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk"
+			"value" : "/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -855,7 +819,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "13__Roman_to_Integer_"
+			"value" : "TwoSum"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1152,6 +1116,42 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
+		},
+		{
+			"name" : "TwoSum_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/jamilashua/Code Projects/TwoSum/cmake-build-debug"
+		},
+		{
+			"name" : "TwoSum_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "TwoSum_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/jamilashua/Code Projects/TwoSum"
 		}
 	],
 	"kind" : "cache",
